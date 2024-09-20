@@ -8,6 +8,8 @@ h1{
 
 img{
     float: right;
+    padding-bottom: 50px;
+    height: 30px;
 }
 
 .email, .call, .Cancelbtn{
